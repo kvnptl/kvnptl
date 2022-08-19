@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Kevin Patel, and I am enthusiastic about robotics and mainly robot perception. I do coding in Python and work with Robot Operating System (ROS). I use PyTorch as a main framework for machine learning projects. I enjoy learning new concepts in machine learning and computer vision.
+
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvnptl)](https://github.com/anuraghazra/github-readme-stats)
+
