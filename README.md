@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kevin Patel 
-## Robotics Perception Developer
+## Robotics Software Developer
 <!-- ![Robot Vision Developer](https://pbs.twimg.com/profile_banners/3011151816/1542615891/1080x360) -->
 
 I am enthusiastic about robotics and mainly robot perception. I enjoy learning new concepts in machine learning and computer vision. I use PyTorch as the main framework for machine learning projects. I do coding in Python and work with Robot Operating System (ROS).
@@ -12,6 +12,7 @@ I am enthusiastic about robotics and mainly robot perception. I enjoy learning n
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img align="left" alt="Jupyter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"/>
 <img align="left" alt="Pytorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png"/>
+<img align="center" alt="ROS" width="110px" src="https://docs.pickit3d.com/en/2.0/_images/ros-logo.png"/>
 
 <br />
 <br />
