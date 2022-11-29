@@ -19,6 +19,7 @@ I am enthusiastic about robotics and mainly robot perception. I enjoy learning n
 ---
 - 🔭 I’m currently working on [this b-it-bots robotics lab repository](https://github.com/kvnptl/mas_industrial_robotics) 
 - 🌱 I’m learning 2D+3D object recognition 
+- ✨ Starting sensor fusion on camera + radar + lidar
 
 <br />
 
