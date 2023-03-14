@@ -2,7 +2,7 @@
 ## Robotics Software Developer
 <!-- ![Robot Vision Developer](https://pbs.twimg.com/profile_banners/3011151816/1542615891/1080x360) -->
 
-I am enthusiastic about robotics and mainly robot perception. I enjoy learning new concepts in machine learning and computer vision. I use PyTorch as the main framework for machine learning projects. I do coding in Python and work with Robot Operating System (ROS).
+I am a passionate robotics enthusiast with a keen interest in robot perception. My thirst for knowledge in machine learning and computer vision is insatiable. Armed with Python, PyTorch, and Robot Operating System (ROS), I am continuously exploring new frontiers in the world of robotics.
 
 ### Skills: 
 - Programming / ROS / Computer Vision / Machine Learning / Robot Perception
