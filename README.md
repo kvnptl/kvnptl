@@ -19,7 +19,7 @@ I am a passionate robotics enthusiast with a keen interest in robot perception. 
 ---
 - 🔭 I’m currently working on [this b-it-bots robotics lab repository](https://github.com/kvnptl/mas_industrial_robotics) 
 - 🌱 I’m learning 2D+3D object recognition 
-- ✨ Starting sensor fusion on camera + radar + lidar
+- ✨ Starting multi-modal sensor fusion on Camera + Radar + Lidar
 
 <br />
 
