@@ -29,13 +29,4 @@ I am a passionate robotics enthusiast with a strong interest in robot perception
 ![Profile views](https://komarev.com/ghpvc/?username=kvnptl)
 
 
-
-### My online presence:
-
-[<img src='https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png' alt='github' height='40'>](https://github.com/kvnptl)
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/kevin-patel-arc/)
-[<img src='https://img.icons8.com/?size=100&id=5MQ0gPAYYx7a&format=png&color=000000' alt='twitter' height='40'>](https://twitter.com/ikvnptl)
-[<img src='https://wizardsourcer.com/wp-content/uploads/2019/03/Stackoverflow.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/6920365)
-
-
 <!-- [![Kevin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kvnptl)](https://github.com/kvnptl/mas_industrial_robotics) -->
